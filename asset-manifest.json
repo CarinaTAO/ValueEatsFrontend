@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ValueEatsFrontend/static/css/main.126a4c57.chunk.css",
+    "main.js": "/ValueEatsFrontend/static/js/main.eb413ce3.chunk.js",
+    "main.js.map": "/ValueEatsFrontend/static/js/main.eb413ce3.chunk.js.map",
+    "runtime-main.js": "/ValueEatsFrontend/static/js/runtime-main.c7ddc5e6.js",
+    "runtime-main.js.map": "/ValueEatsFrontend/static/js/runtime-main.c7ddc5e6.js.map",
+    "static/js/2.fdb7b1d1.chunk.js": "/ValueEatsFrontend/static/js/2.fdb7b1d1.chunk.js",
+    "static/js/2.fdb7b1d1.chunk.js.map": "/ValueEatsFrontend/static/js/2.fdb7b1d1.chunk.js.map",
+    "static/js/3.592e4188.chunk.js": "/ValueEatsFrontend/static/js/3.592e4188.chunk.js",
+    "static/js/3.592e4188.chunk.js.map": "/ValueEatsFrontend/static/js/3.592e4188.chunk.js.map",
+    "index.html": "/ValueEatsFrontend/index.html",
+    "static/css/main.126a4c57.chunk.css.map": "/ValueEatsFrontend/static/css/main.126a4c57.chunk.css.map",
+    "static/js/2.fdb7b1d1.chunk.js.LICENSE.txt": "/ValueEatsFrontend/static/js/2.fdb7b1d1.chunk.js.LICENSE.txt",
+    "static/media/Login.67a4e5e3.jpg": "/ValueEatsFrontend/static/media/Login.67a4e5e3.jpg",
+    "static/media/index.css": "/ValueEatsFrontend/static/media/home.fbb5dabc.jpg",
+    "static/media/restaurants.63bfe8a8.jpg": "/ValueEatsFrontend/static/media/restaurants.63bfe8a8.jpg",
+    "static/media/user.ca686d4a.png": "/ValueEatsFrontend/static/media/user.ca686d4a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7ddc5e6.js",
+    "static/js/2.fdb7b1d1.chunk.js",
+    "static/css/main.126a4c57.chunk.css",
+    "static/js/main.eb413ce3.chunk.js"
+  ]
+}

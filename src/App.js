@@ -24,6 +24,7 @@ class App extends React.Component {
   render() {
     
     return (
+      <Route basename="/ValueEatsFrontend">
       <Switch>
         {/* <Route path="/" exact component={Page}/> */}
         <Route path="/Login" exact component={Login}/>
@@ -45,6 +46,7 @@ class App extends React.Component {
         <Route path="/add-reviews/:res_name" component={AddReviews}/>
         <Route path="/Search-Results/:search" component={SearchResult}/>
       </Switch>
+      </Route>
     );
   }
 }
